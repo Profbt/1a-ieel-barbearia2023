@@ -29,3 +29,15 @@ h1 {
     color: white;
     text-transform: uppercase;
 }
+
+.pai {
+    position: relative;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+nav li {
+    display: inline;
+    padding: 20px;
+}
